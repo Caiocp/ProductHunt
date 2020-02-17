@@ -14,6 +14,7 @@ export default function Routes() {
           name="Main"
           component={Main}
           options={{
+            title: "JSHunt",
             headerStyle: { backgroundColor: "#DA552F" },
             headerTitleAlign: "center",
             headerTintColor: "#fff"

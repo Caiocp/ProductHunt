@@ -11,7 +11,7 @@ For backend tests, use:
 
 ----
 ## Site example
-![JSH_main] (https://i.imgur.com/SuYvgBj.png)
+![JSH_main](https://i.imgur.com/SuYvgBj.png)
 
 ![JSH_details] (https://i.imgur.com/VFXazok.png)
 

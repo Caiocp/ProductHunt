@@ -9,7 +9,7 @@ import {
 
 import api from "../services/api";
 
-export default function pages() {
+export default function Main({ navigation }) {
   const [products, setProducts] = useState([]);
   const [page, setPage] = useState(1);
   const [productInfo, setproductInfo] = useState({});
@@ -32,7 +32,12 @@ export default function pages() {
         <Text style={styles.productTitle}>{item.title}</Text>
         <Text style={styles.productDescription}>{item.description}</Text>
 
-        <TouchableOpacity style={styles.productButton} onPress={() => {}}>
+        <TouchableOpacity
+          style={styles.productButton}
+          onPress={() => {
+            navigation.navigate("Product", { product: item });
+          }}
+        >
           <Text style={styles.productButtonText}>Acessar</Text>
         </TouchableOpacity>
       </View>

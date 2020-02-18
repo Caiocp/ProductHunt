@@ -13,13 +13,13 @@ For backend tests, use:
 ## Site example
 ![JSH_main](https://i.imgur.com/SuYvgBj.png)
 
-![JSH_details] (https://i.imgur.com/VFXazok.png)
+![JSH_details](https://i.imgur.com/VFXazok.png)
 
 ----
 ## Mobile example
-![mobile_main] (https://i.imgur.com/QfSD3Pr.jpg)
+![mobile_main](https://i.imgur.com/QfSD3Pr.jpg)
 
-![mobile_main] (https://i.imgur.com/jahOJWP.jpg)
+![mobile_main](https://i.imgur.com/jahOJWP.jpg)
 
 
 ----

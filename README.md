@@ -11,16 +11,13 @@ For backend tests, use:
 
 ----
 ## Site example
-![JSH_main](https://i.imgur.com/SuYvgBj.png)
+<img src="https://i.imgur.com/SuYvgBj.png" width="1000" height="400" />
 
-![JSH_details](https://i.imgur.com/VFXazok.png)
+<img src="https://i.imgur.com/VFXazok.png" width="1000" height="400" />
 
 ----
 ## Mobile example
-![mobile_main](https://i.imgur.com/QfSD3Pr.jpg)
-
-![mobile_main](https://i.imgur.com/jahOJWP.jpg)
-
+<img src="https://i.imgur.com/QfSD3Pr.jpg" width="400" height="800" /> <img src="https://i.imgur.com/jahOJWP.jpg" width="400" height="800" />
 
 ----
 ### thanks
